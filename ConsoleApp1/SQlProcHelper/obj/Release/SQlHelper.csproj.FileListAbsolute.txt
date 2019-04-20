@@ -1,0 +1,5 @@
+C:\Users\刘宏宇\source\repos\ConsoleApp1\SQlProcHelper\bin\Release\SQlProcHelper.dll
+C:\Users\刘宏宇\source\repos\ConsoleApp1\SQlProcHelper\bin\Release\SQlProcHelper.pdb
+C:\Users\刘宏宇\source\repos\ConsoleApp1\SQlProcHelper\obj\Release\SQlHelper.csproj.CoreCompileInputs.cache
+C:\Users\刘宏宇\source\repos\ConsoleApp1\SQlProcHelper\obj\Release\SQlProcHelper.dll
+C:\Users\刘宏宇\source\repos\ConsoleApp1\SQlProcHelper\obj\Release\SQlProcHelper.pdb

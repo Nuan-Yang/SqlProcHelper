@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28809.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F6CAC923-E7D3-4B32-A5B9-FCBA5E8EA0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQlHelper", "SQlProcHelper\SQlHelper.csproj", "{3DCB1C28-F7A7-4C15-BC3C-C999787ABA24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6CAC923-E7D3-4B32-A5B9-FCBA5E8EA0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CAC923-E7D3-4B32-A5B9-FCBA5E8EA0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CAC923-E7D3-4B32-A5B9-FCBA5E8EA0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CAC923-E7D3-4B32-A5B9-FCBA5E8EA0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCB1C28-F7A7-4C15-BC3C-C999787ABA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCB1C28-F7A7-4C15-BC3C-C999787ABA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCB1C28-F7A7-4C15-BC3C-C999787ABA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCB1C28-F7A7-4C15-BC3C-C999787ABA24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F493C41-109A-4D8B-B581-4F549148529E}
+	EndGlobalSection
+EndGlobal
